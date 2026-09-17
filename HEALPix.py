@@ -17,10 +17,10 @@ import os
 # ── Configuration ─────────────────────────────────────────────────────────────
 
 NSIDE    = 64
-OBS_LAT  =  51.5
-OBS_LON  =  -0.1
+OBS_LAT  =  37.2
+OBS_LON  =  -80.5
 OBS_ELEV =  10.0
-OBS_TIME = "2024-06-21 01:00:00"
+OBS_TIME = "2026-09-16 01:00:00"
 
 POLE_RA  = 310.358
 POLE_DEC =  45.280
